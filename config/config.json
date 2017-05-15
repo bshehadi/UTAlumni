@@ -15,10 +15,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "br42wyamkif1p7w0",
-    "password": "zlvbx8uomd33yg0u",
-    "database": "nodeauth",
-    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "dialect": "mysql"
-  }
+  "use_env_variable": "mysql://br42wyamkif1p7w0:zlvbx8uomd33yg0u@s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/p0vlxyynsh83dsiw"
+}
 }
