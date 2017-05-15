@@ -5,13 +5,13 @@
     "database": "nodeauth",
     "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
-    "port": 3306
+    "port": "3306"
   },
   "test": {
     "username": "br42wyamkif1p7w0",
     "password": "zlvbx8uomd33yg0u",
     "database": "database_test",
-    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	",
+    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
