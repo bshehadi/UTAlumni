@@ -19,7 +19,6 @@
     "password": "zlvbx8uomd33yg0u",
     "database": "nodeauth",
     "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "dialect": "mysql",
-    "port": "3306"
+    "dialect": "mysql"
   }
 }
